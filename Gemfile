@@ -11,4 +11,4 @@ gem 'sqlite3', '~>1.3.6'
 gem 'rspec', '>= 3.0'
 
 # Debugging
-gem 'pry'
+gem 'pry-moves'
